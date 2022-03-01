@@ -17,3 +17,6 @@ preordered_plugins:
   - scheduling
   - auth_mappers
   - auth_saml
+  - scheduling
+  - auth_mappers
+  - auth_saml
