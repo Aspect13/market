@@ -2,64 +2,64 @@
   "market": {
     "source": {
       "type": "git",
-      "url": "https://github.com/carrier-io/market.git"
+      "url": "https://github.com/aspect13/market.git"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/market/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/aspect13/market/main/metadata.json"
     }
   },
   "design-system": {
     "source": {
       "type": "git",
-      "url": "https://github.com/carrier-io/design-system.git"
+      "url": "https://github.com/aspect13/design-system.git"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/design-system/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/aspect13/design-system/main/metadata.json"
     }
   },
   "auth_root": {
     "source": {
       "type": "git",
-      "url": "https://github.com/carrier-io/auth_root.git"
+      "url": "https://github.com/aspect13/auth_root.git"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/auth_root/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/aspect13/auth_root/main/metadata.json"
     }
   },
   "auth_manager": {
     "source": {
       "type": "git",
-      "url": "https://github.com/carrier-io/auth_manager.git"
+      "url": "https://github.com/aspect13/auth_manager.git"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/auth_manager/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/aspect13/auth_manager/main/metadata.json"
     }
   },
   "auth_project": {
     "source": {
       "type": "git",
-      "url": "https://github.com/carrier-io/auth_project.git"
+      "url": "https://github.com/aspect13/auth_project.git"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/auth_project/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/aspect13/auth_project/main/metadata.json"
     }
   },
   "auth_mappers": {
     "source": {
       "type": "git",
-      "url": "https://github.com/carrier-io/auth_mappers.git"
+      "url": "https://github.com/aspect13/auth_mappers.git"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/auth_mappers/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/aspect13/auth_mappers/main/metadata.json"
     }
   },
   "auth_oidc": {
     "source": {
       "type": "git",
-      "url": "https://github.com/carrier-io/auth_oidc.git"
+      "url": "https://github.com/aspect13/auth_oidc.git"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/auth_oidc/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/aspect13/auth_oidc/main/metadata.json"
     }
   },
   "auth_saml": {
@@ -74,46 +74,46 @@
   "projects": {
     "source": {
       "type": "git",
-      "url": "https://github.com/carrier-io/projects.git"
+      "url": "https://github.com/aspect13/projects.git"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/projects/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/aspect13/projects/main/metadata.json"
     }
   },
   "shared": {
     "source": {
       "type": "git",
-      "url": "https://github.com/carrier-io/shared.git"
+      "url": "https://github.com/aspect13/shared.git"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/shared/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/aspect13/shared/main/metadata.json"
     }
   },
   "tasks": {
     "source": {
       "type": "git",
-      "url": "https://github.com/carrier-io/tasks.git"
+      "url": "https://github.com/aspect13/tasks.git"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/tasks/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/aspect13/tasks/main/metadata.json"
     }
   },
   "security": {
     "source": {
       "type": "git",
-      "url": "https://github.com/carrier-io/security.git"
+      "url": "https://github.com/aspect13/security.git"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/security/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/aspect13/security/main/metadata.json"
     }
   },
   "secrets": {
     "source": {
       "type": "git",
-      "url": "https://github.com/carrier-io/secrets.git"
+      "url": "https://github.com/aspect13/secrets.git"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/secrets/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/aspect13/secrets/main/metadata.json"
     }
   },
   "backend_performance": {
@@ -128,100 +128,46 @@
   "artifacts": {
     "source": {
       "type": "git",
-      "url": "https://github.com/carrier-io/artifacts.git"
+      "url": "https://github.com/aspect13/artifacts.git"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/artifacts/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/aspect13/artifacts/main/metadata.json"
     }
   },
   "theme": {
     "source": {
       "type": "git",
-      "url": "https://github.com/carrier-io/theme.git"
+      "url": "https://github.com/aspect13/theme.git"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/theme/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/aspect13/theme/main/metadata.json"
     }
   },
   "security_scanner_zap": {
     "source": {
       "type": "git",
-      "url": "https://github.com/carrier-io/security_scanner_zap.git"
+      "url": "https://github.com/aspect13/security_scanner_zap.git"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/security_scanner_zap/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/aspect13/security_scanner_zap/main/metadata.json"
     }
   },
   "security_scanner_qualys": {
     "source": {
       "type": "git",
-      "url": "https://github.com/carrier-io/security_scanner_qualys.git"
+      "url": "https://github.com/aspect13/security_scanner_qualys.git"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/security_scanner_qualys/main/metadata.json"
-    }
-  },
-  "security_scanner_aem": {
-    "source": {
-      "type": "git",
-      "url": "https://github.com/carrier-io/security_scanner_aem.git"
-    },
-    "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/security_scanner_aem/main/metadata.json"
-    }
-  },
-  "security_scanner_masscan": {
-    "source": {
-      "type": "git",
-      "url": "https://github.com/carrier-io/security_scanner_masscan.git"
-    },
-    "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/security_scanner_masscan/main/metadata.json"
-    }
-  },
-  "security_scanner_w3af": {
-    "source": {
-      "type": "git",
-      "url": "https://github.com/carrier-io/security_scanner_w3af.git"
-    },
-    "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/security_scanner_w3af/main/metadata.json"
-    }
-  },
-  "security_scanner_nikto": {
-    "source": {
-      "type": "git",
-      "url": "https://github.com/carrier-io/security_scanner_nikto.git"
-    },
-    "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/security_scanner_nikto/main/metadata.json"
-    }
-  },
-  "security_scanner_sslyze": {
-    "source": {
-      "type": "git",
-      "url": "https://github.com/carrier-io/security_scanner_sslyze.git"
-    },
-    "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/security_scanner_sslyze/main/metadata.json"
-    }
-  },
-  "security_scanner_nmap": {
-    "source": {
-      "type": "git",
-      "url": "https://github.com/carrier-io/security_scanner_nmap.git"
-    },
-    "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/security_scanner_nmap/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/aspect13/security_scanner_qualys/main/metadata.json"
     }
   },
   "integrations": {
     "source": {
       "type": "git",
-      "url": "https://github.com/carrier-io/integrations.git"
+      "url": "https://github.com/aspect13/integrations.git"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/integrations/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/aspect13/integrations/main/metadata.json"
     }
   },
   "reporter_email": {
@@ -245,19 +191,19 @@
   "processing_severity_filter": {
     "source": {
       "type": "git",
-      "url": "https://github.com/carrier-io/processing_severity_filter.git"
+      "url": "https://github.com/aspect13/processing_severity_filter.git"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/processing_severity_filter/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/aspect13/processing_severity_filter/main/metadata.json"
     }
   },
   "scheduling": {
     "source": {
       "type": "git",
-      "url": "https://github.com/carrier-io/scheduling.git"
+      "url": "https://github.com/aspect13/scheduling.git"
     },
     "objects": {
-      "metadata": "https://raw.githubusercontent.com/carrier-io/scheduling/main/metadata.json"
+      "metadata": "https://raw.githubusercontent.com/aspect13/scheduling/main/metadata.json"
     }
   }
 }
