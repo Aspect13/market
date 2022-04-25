@@ -3,16 +3,7 @@ plugin_repo:
   name: data/plugins.json
 
 preordered_plugins:
-  - security
   - theme
-  - secrets
-  - artifacts
-  - backend_performance
-  - integrations
-  - security_scanner_qualys
-  - security_scanner_zap
-  - processing_severity_filter
-  - reporter_email
-  - reporter_jira
-  - scheduling
+  - projects
   - auth_mappers
+  - auth_oidc
