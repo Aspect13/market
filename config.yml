@@ -4,6 +4,3 @@ plugin_repo:
 
 preordered_plugins:
   - theme
-  - projects
-  - auth_mappers
-  - auth_oidc
